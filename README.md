@@ -7,11 +7,13 @@ This repository contains the example data sets, R code, and stepwise description
   Venarsky MP, Walters DM, Hall RO, Livers B, Wohl E. In review. Shifting stream planform state decreases stream productivity yet  
   increases riparian animal production
 
-Email questions, comments, and ideas on how to improve either the analysis itself or the methodological description to Michael Venarsky (mvenarsky@gmail.com). Meaningful contributions will be credited to the person.  
+Email questions, comments, and ideas on how to improve either the analysis itself or the methodological description to Michael Venarsky
+(mvenarsky@gmail.com). Meaningful contributions will be credited to the person.  
 
 Most up to date data files included:
 
 Calculating secondary production for taxa with distinguishable cohort structure
+
   2oProd_cohort_v1.R
   2oProd_cohort_v1.pdf
   Cohort_v1.csv
