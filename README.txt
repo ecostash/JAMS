@@ -1,11 +1,13 @@
 Updated: 23-April-2017
 
-This repository contains the example data sets, R code, and stepwise descriptions of the secondary production and bootstrapping procedures used in the following manuscript:
+This repository contains the example data sets, R code, and stepwise descriptions of the secondary production and bootstrapping procedures
+used in the following manuscript:
 
-  Venarsky MP, Walters DM, Hall RO, Livers B, Wohl E. In review. Shifting stream planform state decreases stream productivity yet 
+  Venarsky MP, Walters DM, Hall RO, Livers B, Wohl E. In review. Shifting stream planform state decreases stream productivity yet
   increases riparian animal production
 
-Email questions, comments, and ideas on how to improve either the analysis itself or the methodological description to Michael Venarsky (mvenarsky@gmail.com). Meaningful contributions will be credited to the person.  
+Email questions, comments, and ideas on how to improve either the analysis itself or the methodological description to Michael Venarsky
+(mvenarsky@gmail.com). Meaningful contributions will be credited to the person.  
 
 Most up to date data files included:
 
